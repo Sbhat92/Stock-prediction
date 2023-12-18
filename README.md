@@ -5,3 +5,11 @@ To run the code, use the data from: https://github.com/yumoxu/stocknet-dataset, 
 
 Upon creating the embedding, run `preprocessing.py` in the method of choice, then run `main.py` to train the model.
 
+Requirements:
+
+Python 3.7,
+Tensorflow2,
+Numpy,
+pandas,
+pickle,
+gensim
